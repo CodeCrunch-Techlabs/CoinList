@@ -1,2 +1,2 @@
 *.pbxproj -text
-*.swift linguist-language=Reactnative
+*.swift linguist-language=JavaScript
